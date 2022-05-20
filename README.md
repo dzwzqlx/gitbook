@@ -9,11 +9,11 @@
 本博客（https://blog.67373.net）主要记录以下内容：
 
 * 一些工具/产品的说明
-* 一些创作相关经验分享
+* 一些经验分享
 * 未完成的工作
 * 运营手册
 
-手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录，如果打不开就点击「重装」或者点击浏览器的刷新按钮。
+手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录，如果打不开可点击「重装」试试，或者点击浏览器的刷新按钮。
 
 若有任何意见或建议，请点击：\
 [https://67373.net/fankui](https://67373.net/fankui)
