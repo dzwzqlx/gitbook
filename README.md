@@ -13,4 +13,4 @@
 * 未完成的工作
 * 运营手册
 
-手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看文章目录。
+手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录。
