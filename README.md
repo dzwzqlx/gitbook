@@ -13,9 +13,7 @@
 * 未完成的工作
 * 运营手册
 
-手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录。
-
-
+手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录，如果打不开就点击「重装」或者点击浏览器的刷新按钮。
 
 若有任何意见或建议，请点击：\
 [https://67373.net/fankui](https://67373.net/fankui)
