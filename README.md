@@ -1,8 +1,9 @@
 ---
+cover: .gitbook/assets/67373.net banner5-3 (1).png
 coverY: 0
 ---
 
-# Welcome!
+# 欢迎
 
 ## Welcome aboard!dsdsafdf
 
