@@ -5,7 +5,7 @@
 
 ## 工具说明
 
-* [小德影城](gong-ju-shuo-ming/xiao-de-ying-cheng.md)
+* [小德影城](group-1fsfsfad/page-3.md)
 * [聊天机器人](gong-ju-shuo-ming/liao-tian-ji-qi-ren.md)
 * [弹幕分析](gong-ju-shuo-ming/dan-mu-fen-xi.md)
 

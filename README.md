@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ### <mark style="color:red;">**陈一发儿 2022 年正在 YouTube 及 Twitch 直播**</mark>
 
-### <mark style="color:red;">直播导航站为：</mark>[<mark style="color:red;">https://67373.Net</mark>](https://67373.net)<mark style="color:red;"></mark>
+### <mark style="color:red;">直播导航站为：</mark>[<mark style="color:blue;">https://67373.Net</mark>](https://67373.net)<mark style="color:blue;"></mark>
 {% endhint %}
 
 本博客（https://blog.67373.net）主要记录以下内容：
@@ -14,3 +14,5 @@
 * 运营手册
 
 手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录。
+
+若有任何意见或建议，请点击：[https://67373.net/fankui](https://67373.net/fankui)
