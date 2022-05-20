@@ -1,8 +1,8 @@
-# 这里是陈一发儿 67373.Net 博客
+# 陈一发儿2022年正在直播
 
-<mark style="color:red;">**陈一发儿 2022 年正在 YouTube 及 Twitch 直播**</mark>
+## <mark style="color:red;">**陈一发儿 2022 年正在 YouTube 及 Twitch 直播**</mark>
 
-直播导航站为：
+### 直播导航站为：
 
 {% hint style="info" %}
 https://67373.Net
