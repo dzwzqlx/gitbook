@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # 陈一发儿2022年正在直播
 
 {% hint style="info" %}
