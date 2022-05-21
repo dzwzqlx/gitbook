@@ -9,7 +9,7 @@
   * [ ] 模块补完
   * [ ] 添加趣味内容模块、便捷分享传播
   * [ ] 提到的地方改为 N 大写，可减少与 67373.com 混淆
-  * [ ] gitbook.com 搬到 github.io ？
+  * [ ] gitbook.com 搬到 github.io，or 换个博客系统
 * [ ] 直播截图分享优化
   * [ ] 提取直链并转为静态网站
   * [ ] or 放到 blogger？
