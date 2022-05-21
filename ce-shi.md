@@ -58,10 +58,6 @@ gsdf
 
 <img src=".gitbook/assets/file.drawing (2).svg" alt="" class="gitbook-drawing">
 
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
 {% swagger method="get" path="" baseUrl="" summary="" %}
 {% swagger-description %}
 
