@@ -10,3 +10,5 @@
   * [视频剪辑](jing-yan-fen-xiang/shi-pin-jian-ji.md)
 * [未完成的工作](wei-wan-cheng-de-gong-zuo.md)
 * [运营手册](yun-ying-shou-ce.md)
+* [一些随手记录](yi-xie-sui-shou-ji-lu/README.md)
+  * [博客选型记录](yi-xie-sui-shou-ji-lu/bo-ke-xuan-xing-ji-lu.md)

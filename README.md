@@ -12,7 +12,6 @@
 * 一些经验分享
 * 未完成的工作
 * 运营手册
-* 一些随手记录
 
 最好使用电脑浏览器浏览。手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录，如果打不开可点击「重装」试试，或者点击浏览器的刷新按钮。
 
