@@ -39,8 +39,30 @@ npm 版的 gitbook 太老了，有很多坑，比如不支持比较高版本的 
 
 
 
-**gitbook.com**
+<mark style="color:red;">**gitbook.com（当前使用）**</mark>
 
 缺点：手机浏览器上有 bug，页面跳转会加载不出来，需要刷新一次。
 
-优点：格式丰富。内容可以完全备份到 github，实在不行可以迁移。
+优点：格式丰富。内容可以完全备份到 github，实在不行可以迁移。网页端编辑，比较方便。
+
+
+
+**notion**
+
+墙内访问不稳定
+
+
+
+**Sphinx + Github + ReadTheDocs**
+
+案例：[https://zhangzhenhu.github.io/blog/index.html](https://zhangzhenhu.github.io/blog/index.html)
+
+教程：[https://blog.51cto.com/u\_15441270/4724717](https://blog.51cto.com/u\_15441270/4724717)
+
+缺点：比较麻烦，而且也没有全文搜索
+
+
+
+**Jekyll+GitHub Pages 有添加全文搜索的功能**
+
+缺点：比较麻烦，等以后有空弄
