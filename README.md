@@ -2,7 +2,7 @@
 
 **此处已弃用，弃用原因见博客选型记录。**
 
-**新地址为：**[<mark style="color:blue;">https://67373</mark><mark style="color:blue;"><mark style="color:red;">.Net/blog<mark style="color:red;"></mark>](https://67373.net/blog)<mark style="color:blue;"><mark style="color:red;"><mark style="color:red;"></mark>
+**新地址可以在** [<mark style="color:blue;">67373.Net</mark>](https://67373.net) <mark style="color:blue;"></mark> **找找**
 
 {% hint style="info" %}
 ### 一发儿 2022 年正在 YouTube 及 Twitch 直播
