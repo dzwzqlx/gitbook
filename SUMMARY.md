@@ -1,6 +1,6 @@
 # Table of contents
 
-* [陈一发儿2022年正在直播](README.md)
+* [陈一发儿直播导航](README.md)
 * [工具/产品说明](gong-ju-chan-pin-shuo-ming/README.md)
   * [小德影城](group-1fsfsfad/page-3.md)
   * [聊天机器人](gong-ju-chan-pin-shuo-ming/liao-tian-ji-qi-ren.md)

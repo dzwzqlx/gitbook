@@ -1,8 +1,6 @@
-# 陈一发儿2022年正在直播
+# 陈一发儿直播导航
 
-**此处已弃用，弃用原因见博客选型记录。**
-
-**新地址可以在** [<mark style="color:blue;">67373.Net</mark>](https://67373.net) <mark style="color:blue;"></mark> **找找**
+**此处已弃用，转到** [<mark style="color:blue;">67373.Net</mark>](https://67373.net)&#x20;
 
 {% hint style="info" %}
 ### 一发儿 2022 年正在 YouTube 及 Twitch 直播
@@ -18,7 +16,7 @@
 * 运营手册
 * 一些随手记录
 
-最好使用电脑浏览器浏览。手机端点击 ** **<mark style="color:red;">**左上角菜单**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 可查看全部文章目录，如果打不开可点击「重装」试试，或者点击浏览器的刷新按钮。
+最好使用电脑浏览器浏览。手机端点击 <mark style="color:red;">**左上角菜单**</mark> 可查看全部文章目录，如果打不开可点击「重装」试试，或者点击浏览器的刷新按钮。
 
 若有任何意见或建议，请点击：\
 [https://67373.Net/fankui](https://67373.net/fankui)
