@@ -3,7 +3,7 @@
 **此处已弃用，转到** [<mark style="color:blue;">67373.Net</mark>](https://67373.net)&#x20;
 
 {% hint style="info" %}
-### 一发儿 2022 年正在 YouTube 及 Twitch 直播
+### 一发儿正在 YouTube 及 Twitch 直播
 
 ### <mark style="color:red;">直播导航站为：</mark>[https://67373.Net](https://67373.net)
 {% endhint %}
